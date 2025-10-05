@@ -1,0 +1,123 @@
+[
+  {
+    "id": "string",
+    "title": "string",
+    "description": "string",
+    "tags": [
+      "string"
+    ],
+    "mood": "string"
+  },
+  {
+    "id": "vid_1",
+    "title": "ML Basics",
+    "description": "Intro",
+    "tags": [
+      "ml",
+      "recsys"
+    ],
+    "mood": "uplifting"
+  },
+  {
+    "id": "adv_1",
+    "title": "Mountain Trek",
+    "description": "Adventure in the Alps",
+    "tags": [
+      "adventure",
+      "travel",
+      "nature"
+    ],
+    "mood": "adventurous"
+  },
+  {
+    "id": "adv_2",
+    "title": "River Rafting",
+    "description": "Whitewater thrills",
+    "tags": [
+      "adventure",
+      "water"
+    ],
+    "mood": "adventurous"
+  },
+  {
+    "id": "rom_1",
+    "title": "Paris Love Story",
+    "description": "Romance in Paris",
+    "tags": [
+      "romance",
+      "drama"
+    ],
+    "mood": "romance"
+  },
+  {
+    "id": "rom_2",
+    "title": "Sunset Date",
+    "description": "Beach romance",
+    "tags": [
+      "romance",
+      "beach"
+    ],
+    "mood": "romance"
+  },
+  {
+    "id": "edu_1",
+    "title": "ML Basics",
+    "description": "Intro to Machine Learning",
+    "tags": [
+      "ml",
+      "education",
+      "ai"
+    ],
+    "mood": "focused"
+  },
+  {
+    "id": "edu_2",
+    "title": "Algebra Refresher",
+    "description": "Learn algebra",
+    "tags": [
+      "math",
+      "education"
+    ],
+    "mood": "focused"
+  },
+  {
+    "id": "fun_1",
+    "title": "Comedy Skit",
+    "description": "Laughs guaranteed",
+    "tags": [
+      "comedy",
+      "fun"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "fun_2",
+    "title": "Pranks",
+    "description": "Harmless pranks",
+    "tags": [
+      "fun",
+      "viral"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "fit_1",
+    "title": "HIIT Workout",
+    "description": "Quick cardio",
+    "tags": [
+      "fitness",
+      "health"
+    ],
+    "mood": "energetic"
+  },
+  {
+    "id": "calm_1",
+    "title": "Ocean Waves",
+    "description": "Relaxing sounds",
+    "tags": [
+      "relax",
+      "nature"
+    ],
+    "mood": "calm"
+  }
+]

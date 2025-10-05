@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": "user_1",
+    "video_id": "vid_1",
+    "action": "like"
+  },
+  {
+    "user_id": "user_1",
+    "video_id": "vid_1",
+    "action": "like"
+  }
+]

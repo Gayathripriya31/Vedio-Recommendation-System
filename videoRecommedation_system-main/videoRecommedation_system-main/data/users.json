@@ -1,0 +1,137 @@
+[
+  {
+    "id": "user_1",
+    "name": "Alice",
+    "interests": [
+      "ml",
+      "motivation"
+    ],
+    "mood": "uplifting"
+  },
+  {
+    "id": "anvitha-sree-bk-wmfm",
+    "name": "Anvitha Sree BK",
+    "interests": [
+      "comedy",
+      "travel"
+    ],
+    "mood": "energetic"
+  },
+  {
+    "id": "anvitha-sree-bk-s6dn",
+    "name": "Anvitha Sree BK",
+    "interests": [
+      "comedy",
+      "travel"
+    ],
+    "mood": "adventurous"
+  },
+  {
+    "id": "anvitha-sree-b-k-ug69",
+    "name": "Anvitha Sree B K",
+    "interests": [
+      "comedy",
+      "travel"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "anvitha-sree-b-k-qzd2",
+    "name": "Anvitha Sree B K",
+    "interests": [
+      "health",
+      "fitness"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "anvitha-sree-bk-qv02",
+    "name": "Anvitha Sree BK",
+    "interests": [
+      "education",
+      "fitness"
+    ],
+    "mood": "focused"
+  },
+  {
+    "id": "anvitha-sree-bk-oixp",
+    "name": "Anvitha Sree BK",
+    "interests": [
+      "comedy"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "shavya-irol",
+    "name": "shavya",
+    "interests": [
+      "comedy"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "shavya-a31d",
+    "name": "shavya",
+    "interests": [
+      "comedy"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "anvitha-6unx",
+    "name": "Anvitha",
+    "interests": [
+      "education"
+    ],
+    "mood": "focused"
+  },
+  {
+    "id": "shavya-8aig",
+    "name": "shavya",
+    "interests": [
+      "drama"
+    ],
+    "mood": "energetic"
+  },
+  {
+    "id": "anvitha-hvjy",
+    "name": "Anvitha",
+    "interests": [
+      "adventure"
+    ],
+    "mood": "adventurous"
+  },
+  {
+    "id": "shavya-70e4",
+    "name": "shavya",
+    "interests": [
+      "education"
+    ],
+    "mood": "focused"
+  },
+  {
+    "id": "shavya-5m2m",
+    "name": "shavya",
+    "interests": [
+      "comedy"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "shavya-p6hd",
+    "name": "shavya",
+    "interests": [
+      "comedy"
+    ],
+    "mood": "cheerful"
+  },
+  {
+    "id": "anvitha-0qsh",
+    "name": "anvitha",
+    "interests": [
+      "adventure",
+      "nature"
+    ],
+    "mood": "adventurous"
+  }
+]
